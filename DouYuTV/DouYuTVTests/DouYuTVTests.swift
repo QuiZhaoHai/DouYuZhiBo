@@ -1,15 +1,15 @@
 //
-//  DouYuLiveTests.swift
-//  DouYuLiveTests
+//  DouYuTVTests.swift
+//  DouYuTVTests
 //
-//  Created by MacPC on 2018/5/29.
+//  Created by MacPC on 2018/5/30.
 //  Copyright © 2018年 MacPC. All rights reserved.
 //
 
 import XCTest
-@testable import DouYuLive
+@testable import DouYuTV
 
-class DouYuLiveTests: XCTestCase {
+class DouYuTVTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

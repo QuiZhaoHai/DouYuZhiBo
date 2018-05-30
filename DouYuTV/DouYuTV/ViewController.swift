@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  DouYuLive
+//  DouYuTV
 //
-//  Created by MacPC on 2018/5/29.
+//  Created by MacPC on 2018/5/30.
 //  Copyright © 2018年 MacPC. All rights reserved.
 //
 
