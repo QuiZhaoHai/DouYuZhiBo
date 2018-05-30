@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB601D0E20BEDAE30084C083 /* Classes in Resources */ = {isa = PBXBuildFile; fileRef = EB601D0D20BEDAE30084C083 /* Classes */; };
 		EBCF118F20BE61A600B5D5DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCF118E20BE61A600B5D5DB /* AppDelegate.swift */; };
-		EBCF119120BE61A600B5D5DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBCF119020BE61A600B5D5DB /* ViewController.swift */; };
 		EBCF119420BE61A600B5D5DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBCF119220BE61A600B5D5DB /* Main.storyboard */; };
 		EBCF119620BE61B300B5D5DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EBCF119520BE61B300B5D5DB /* Assets.xcassets */; };
 		EBCF119920BE61B300B5D5DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EBCF119720BE61B300B5D5DB /* LaunchScreen.storyboard */; };
@@ -34,9 +34,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB601D0D20BEDAE30084C083 /* Classes */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Classes; sourceTree = "<group>"; };
 		EBCF118B20BE61A600B5D5DB /* DouYuTV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DouYuTV.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBCF118E20BE61A600B5D5DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EBCF119020BE61A600B5D5DB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EBCF119320BE61A600B5D5DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		EBCF119520BE61B300B5D5DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EBCF119820BE61B300B5D5DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -97,8 +97,8 @@
 		EBCF118D20BE61A600B5D5DB /* DouYuTV */ = {
 			isa = PBXGroup;
 			children = (
+				EB601D0D20BEDAE30084C083 /* Classes */,
 				EBCF118E20BE61A600B5D5DB /* AppDelegate.swift */,
-				EBCF119020BE61A600B5D5DB /* ViewController.swift */,
 				EBCF119220BE61A600B5D5DB /* Main.storyboard */,
 				EBCF119520BE61B300B5D5DB /* Assets.xcassets */,
 				EBCF119720BE61B300B5D5DB /* LaunchScreen.storyboard */,
@@ -230,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EBCF119920BE61B300B5D5DB /* LaunchScreen.storyboard in Resources */,
+				EB601D0E20BEDAE30084C083 /* Classes in Resources */,
 				EBCF119620BE61B300B5D5DB /* Assets.xcassets in Resources */,
 				EBCF119420BE61A600B5D5DB /* Main.storyboard in Resources */,
 			);
@@ -256,7 +257,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBCF119120BE61A600B5D5DB /* ViewController.swift in Sources */,
 				EBCF118F20BE61A600B5D5DB /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
