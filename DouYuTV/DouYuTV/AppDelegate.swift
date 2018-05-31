@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  DouYuTV
 //
-//  Created by MacPC on 2018/5/30.
+//  Created by MacPC on 2018/5/31.
 //  Copyright © 2018年 MacPC. All rights reserved.
 //
 
